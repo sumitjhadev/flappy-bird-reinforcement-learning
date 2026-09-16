@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Training outputs (logs only — keep trained models)
+runs/*.log
